@@ -20975,8 +20975,7 @@ this.a=b},
 RK:function RK(a){this.a=a},
 azV(a){$.ah7()
 $.AQ().uv("videoElement",new A.adh(a),!0)},
-xb:function xb(a,b){this.c=a
-this.a=b},
+xb:function xb(a){this.a=a},
 HO:function HO(){this.c=this.a=null},
 adh:function adh(a){this.a=a},
 X8:function X8(a,b){this.a=a
@@ -67083,7 +67082,7 @@ $0(){this.a.d=this.b},
 $S:0}
 A.mU.prototype={
 J(a){var s=null,r=this.c,q=r.r,p=q.a
-return A.afd(A.adN(B.er,s,s,A.cE(r.c,s,s,s,s)),s,A.ake(A.hI(A.b([B.is,new A.Hu(r,s),B.bp,A.cE("Description",s,s,A.at(a).p2.r,s),B.du,A.cE(r.d,s,s,B.vL,s),B.bp,A.cE("Purpose",s,s,A.at(a).p2.r,s),B.du,A.cE(q.b,s,s,B.vL,s),B.bp,A.cE("Technologies Used",s,s,A.at(a).p2.r,s),B.du,A.hI(p.ges(p).dL(0,new A.a0R(),t.y_).cO(0),B.a6,B.a0,B.az),B.bp,A.cE("App Screens",s,s,A.at(a).p2.r,s),B.du,new A.DJ(r,s),B.bp,A.cE("App Video",s,s,A.at(a).p2.r,s),B.du,A.j7(new A.xb("https://hassanmadkour.github.io/portfolio-deploy/assets/videos/responsive_dashboard/Responsive_app.mp4",s),s,A.bS(a,B.bx,t.w).w.a.a*0.6)],t.E),B.aQ,B.a0,B.az),B.cW),s)}}
+return A.afd(A.adN(B.er,s,s,A.cE(r.c,s,s,s,s)),s,A.ake(A.hI(A.b([B.is,new A.Hu(r,s),B.bp,A.cE("Description",s,s,A.at(a).p2.r,s),B.du,A.cE(r.d,s,s,B.vL,s),B.bp,A.cE("Purpose",s,s,A.at(a).p2.r,s),B.du,A.cE(q.b,s,s,B.vL,s),B.bp,A.cE("Technologies Used",s,s,A.at(a).p2.r,s),B.du,A.hI(p.ges(p).dL(0,new A.a0R(),t.y_).cO(0),B.a6,B.a0,B.az),B.bp,A.cE("App Screens",s,s,A.at(a).p2.r,s),B.du,new A.DJ(r,s),B.bp,A.cE("App Video",s,s,A.at(a).p2.r,s),B.du,A.j7(new A.xb(s),s,A.bS(a,B.bx,t.w).w.a.a*0.6)],t.E),B.aQ,B.a0,B.az),B.cW),s)}}
 A.a0R.prototype={
 $1(a){var s=null,r=A.cE(a.a,s,s,B.Jn,s)
 return A.RJ(A.aeL(s,s,s,A.cE(a.b,s,s,B.Ma,s),r,s),B.w,s,B.h6,s)},
@@ -67196,7 +67195,7 @@ A.xb.prototype={
 am(){return new A.HO()}}
 A.HO.prototype={
 aF(){this.b0()
-A.azV(this.a.c)},
+A.azV("https://raw.githubusercontent.com/HassanMadkour/portfolio-deploy/gh-pages/assets/assets/videos/responsive_dashboard/Responsive_app.mp4")},
 J(a){return A.j7(new A.DD("videoElement",null),A.bS(a,B.bx,t.w).w.a.b*0.6,null)}}
 A.adh.prototype={
 $1(a){var s,r=document.createElement("video")
