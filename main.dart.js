@@ -68879,7 +68879,7 @@ s=A.bD("App Screens",o,o,A.Y(a).p2.r,o)
 r=A.bD("App Video",o,o,A.Y(a).p2.r,o)
 q=A.bl(a,B.bv,t.w).w
 p=new A.bU(B.dF,2,B.X,-1)
-return A.a2t(m,o,A.ahn(A.cE(A.b([B.jf,new A.HZ(n,o),B.bE,l,B.dX,k,B.bE,j,B.dX,h,B.bE,g,B.dX,i,B.bE,s,B.dX,new A.EB(n,o),B.bE,r,B.dX,A.bh(o,new A.xM("assets/videos/responsive_dashboard/Responsive_app.mp4",o),B.k,o,o,new A.bP(o,o,new A.cD(p,p,p,p),A.dC(20),o,o,B.a5),o,o,o,new A.ah(20,20,20,20),o,o,q.a.a*0.8)],t.p),B.b1,B.I,B.Q,B.N),o,B.dl),o,o)}}
+return A.a2t(m,o,A.ahn(A.cE(A.b([B.jf,new A.HZ(n,o),B.bE,l,B.dX,k,B.bE,j,B.dX,h,B.bE,g,B.dX,i,B.bE,s,B.dX,new A.EB(n,o),B.bE,r,B.dX,A.bh(o,new A.xM("https://hassanmadkour.github.io/portfolio-deploy/assets/videos/responsive_dashboard/Responsive_app.mp4",o),B.k,o,o,new A.bP(o,o,new A.cD(p,p,p,p),A.dC(20),o,o,B.a5),o,o,o,new A.ah(20,20,20,20),o,o,q.a.a*0.8)],t.p),B.b1,B.I,B.Q,B.N),o,B.dl),o,o)}}
 A.a1_.prototype={
 $1(a){var s=null,r=A.bD(a.a,s,s,B.PC,s)
 return A.RI(A.uO(s,s,s,s,!1,A.bD(a.b,s,s,B.Ss,s),r,s),B.C,s,B.hP,s)},
