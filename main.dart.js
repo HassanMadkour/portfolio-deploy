@@ -67083,7 +67083,7 @@ $0(){this.a.d=this.b},
 $S:0}
 A.mU.prototype={
 J(a){var s=null,r=this.c,q=r.r,p=q.a
-return A.afd(A.adN(B.er,s,s,A.cE(r.c,s,s,s,s)),s,A.ake(A.hI(A.b([B.is,new A.Hu(r,s),B.bp,A.cE("Description",s,s,A.at(a).p2.r,s),B.du,A.cE(r.d,s,s,B.vL,s),B.bp,A.cE("Purpose",s,s,A.at(a).p2.r,s),B.du,A.cE(q.b,s,s,B.vL,s),B.bp,A.cE("Technologies Used",s,s,A.at(a).p2.r,s),B.du,A.hI(p.ges(p).dL(0,new A.a0R(),t.y_).cO(0),B.a6,B.a0,B.az),B.bp,A.cE("App Screens",s,s,A.at(a).p2.r,s),B.du,new A.DJ(r,s),B.bp,A.cE("App Video",s,s,A.at(a).p2.r,s),B.du,A.j7(new A.xb("assets/videos/responsive_dashboard/Responsive_app.mp4",s),s,A.bS(a,B.bx,t.w).w.a.a*0.6)],t.E),B.aQ,B.a0,B.az),B.cW),s)}}
+return A.afd(A.adN(B.er,s,s,A.cE(r.c,s,s,s,s)),s,A.ake(A.hI(A.b([B.is,new A.Hu(r,s),B.bp,A.cE("Description",s,s,A.at(a).p2.r,s),B.du,A.cE(r.d,s,s,B.vL,s),B.bp,A.cE("Purpose",s,s,A.at(a).p2.r,s),B.du,A.cE(q.b,s,s,B.vL,s),B.bp,A.cE("Technologies Used",s,s,A.at(a).p2.r,s),B.du,A.hI(p.ges(p).dL(0,new A.a0R(),t.y_).cO(0),B.a6,B.a0,B.az),B.bp,A.cE("App Screens",s,s,A.at(a).p2.r,s),B.du,new A.DJ(r,s),B.bp,A.cE("App Video",s,s,A.at(a).p2.r,s),B.du,A.j7(new A.xb("https://hassanmadkour.github.io/portfolio-deploy/assets/videos/responsive_dashboard/Responsive_app.mp4",s),s,A.bS(a,B.bx,t.w).w.a.a*0.6)],t.E),B.aQ,B.a0,B.az),B.cW),s)}}
 A.a0R.prototype={
 $1(a){var s=null,r=A.cE(a.a,s,s,B.Jn,s)
 return A.RJ(A.aeL(s,s,s,A.cE(a.b,s,s,B.Ma,s),r,s),B.w,s,B.h6,s)},
